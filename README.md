@@ -3,12 +3,14 @@ arpg
 
 Amazon Related Product Graph
 
-This script allows you to enter a (set of) ASIN(s) and crawl its recommendations up til a user-specified depth. The output is a GEXF file with the recommendation network for those ASINs.
+This PHP script allows you to enter a (set of) ASIN(s) and crawl its recommendations up til a user-specified depth. The output is a GEXF file with the recommendation network for those ASINs.
 
 Usage
 ====
 
-Change the settings in config.php and run the script as follows: php amazon_related_product_graph.php
+Change the settings in config.php and run the script as follows: 
+
+php amazon_related_product_graph.php
 
 Dependencies
 ====
